@@ -23,3 +23,7 @@ The site is hosted on Netlify and connected to the GitHub repository's master br
 Build settings are stored in netlify.toml in the repository, rather than only in the Netlify dashboard. There is no build command, and the publish directory is the repository root.
 
 The _headers file adds X-Content-Type-Options, Referrer-Policy and Permissions-Policy to every response. It also tells browsers to cache workspace.png for a year.
+
+## AI Disclosure
+
+The Netlify badge, **Head metadata**, **Deployment** section in README was added by AI.
